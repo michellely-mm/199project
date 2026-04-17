@@ -1,0 +1,20 @@
+
+[1/1] tau = 20151231
+  Processing AA...
+  AA: 1000 NaN values in X_train (0.35%)
+  AA: best_lambda = 1000, val_mse = 0.000613
+  Processing ABM...
+  ABM: 1000 NaN values in X_train (0.35%)
+  ABM: best_lambda = 1000, val_mse = 0.000153
+  Processing ABT...
+  ABT: 1000 NaN values in X_train (0.35%)
+  ABT: best_lambda = 1000, val_mse = 0.000196
+  Processing ADI...
+  ADI: 1000 NaN values in X_train (0.35%)
+  ADI: best_lambda = 1000, val_mse = 0.000410
+  Processing ADM...
+  ADM: 1000 NaN values in X_train (0.35%)
+  ADM: best_lambda = 1000, val_mse = 0.000233
+
+Saved predictions to /Users/michellewan/199project/results/sam_predictions.csv
+Saved skipped tickers to /Users/michellewan/199project/results/sam_skipped.csv
